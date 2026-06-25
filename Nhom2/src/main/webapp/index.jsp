@@ -3,6 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
+<<<<<<< HEAD
     <title>OC CAC  </title>
 
     <style>
@@ -55,6 +56,10 @@
         }
     </style>
 
+=======
+    <title>OC CAC THANH LONG</title>
+    <link rel="stylesheet" href="css/Style.css">
+>>>>>>> 2ceda92bcea34633dd4fd5a3ef29af6c6b93b92f
 </head>
 <body>
 
@@ -64,18 +69,12 @@
 
     <form action="login" method="post">
 
-        <input type="text"
-               name="username"
-               placeholder="Tên đăng nhập">
+        <input type="text" name="username" placeholder="Tên đăng nhập">
 
-        <input type="password"
-               name="password"
-               placeholder="Mật khẩu">
+        <input type="password" name="password" placeholder="Mật khẩu">
 
-        <button type="submit">
-            Đăng nhập
-        </button>
-<h2>Chào Mừng bạn đến cửa hàng sách hentai,sex</h2>
+        <button type="submit">Đăng nhập</button>
+        <h2>Chào Mừng bạn đến cửa hàng sách hentai,sex</h2>
     </form>
 
 </div>
